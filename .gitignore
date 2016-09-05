@@ -1,0 +1,6 @@
+Debug/
+*.o
+UdpProxy
+.cproject
+.project
+.settings
